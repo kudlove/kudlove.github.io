@@ -1,5 +1,5 @@
 ---
-title:  "[MD]] 블로그 세팅방법"
+title:  "[MD]블로그 세팅방법"
 excerpt: "블로그 세팅정보를 기록하여 잊지안도록"
 
 categories:
