@@ -5,7 +5,7 @@ excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저�
 categories:
   - Blog
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [Blog, jekyll, Github, Git,Python]
 
 toc: true
 toc_sticky: true
@@ -17,6 +17,12 @@ last_modified_at: 2021-01-05
 ***
 - ### QT Style  
   https://doc.qt.io/qt-5/stylesheet-examples.html
+- ### LINE Messaging API 사용해보기
+  https://engineering.linecorp.com/ko/blog/line-messaging-api-samplebot/
+- ### LINE Developers
+  https://developers.line.biz/en/docs/messaging-api/
+- ### Node.js와 Python으로 LINE Notify 사용해보기(1) – 기본
+  https://engineering.linecorp.com/ko/blog/detail/334/
 ***
     반올림
       round() 
