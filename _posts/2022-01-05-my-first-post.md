@@ -14,7 +14,10 @@ date: 2022-01-05
 last_modified_at: 2021-01-05
 ---
 ## 파이썬 사용 함수
-    
+***
+- ### QT Style  
+  https://doc.qt.io/qt-5/stylesheet-examples.html
+***
     반올림
       round() 
 ***
@@ -48,7 +51,7 @@ last_modified_at: 2021-01-05
         self.textEdit_1.setAlignment(Qt.AlignCenter) 
 ***   
     문자 순열 발생 ('123' -> '132' ....)
-    
+
         from itertools import permutations
 
         perm = [''.join(p) for p in permutations(data)]
