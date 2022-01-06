@@ -1,17 +1,21 @@
 ---
-title:  "[MD] 마크다운 , 파이썬 공부시작"
-excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
-
+title: '[MD] 마크다운 , 파이썬 공부시작'
+excerpt: >-
+  md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬
+  서버에서 확인도 해보자. 
 categories:
   - Blog
 tags:
-  - [Blog, jekyll, Github, Git,Python]
-
+  - - Blog
+    - jekyll
+    - Github
+    - Git
+    - Python
 toc: true
 toc_sticky: true
- 
-date: 2022-01-05
-last_modified_at: 2021-01-05
+date: {}
+last_modified_at: {}
+published: true
 ---
 ## 파이썬 사용 함수
 ***
@@ -70,6 +74,3 @@ last_modified_at: 2021-01-05
         for j in new_list:
             if data in new_list:
                 new_list.remove(data)
-    
-    
-    
