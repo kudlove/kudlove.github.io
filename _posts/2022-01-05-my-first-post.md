@@ -13,23 +13,22 @@ toc_sticky: true
 date: 2022-01-05
 last_modified_at: 2021-01-05
 ---
-
-파이썬 사용 함수
+## 파이썬 사용 함수
     
     반올림
-        round() 
-
+      round() 
+***
     버튼연결 
          self.btnDel.clicked.connect(self.clickBtnDelete)
-    
+***    
     캘린더 위젯 이벤트 연결
         self.calendarWidget.clicked.connect(self.calendarClicked)
-    
+*** 
     Key Event function
         def keyPressEvent(self, event):        
             super().keyPressEvent(event)
             keyEventProcess(self,event)  ## Event 처리 
-
+***
     테이블 위젯 컬럼 정렬
         self.tableWidget.item(cell.row(),0).setTextAlignment(Qt.AlignCenter | Qt.AlignVCenter)
 
@@ -44,11 +43,12 @@ last_modified_at: 2021-01-05
         self.tableWidget.setStyleSheet("QTableView::item:selected { color:white; background:#000000; font-weight:900; }"
                 "QTableCornerButton::section { background-color:#232326; }"
                 "QHeaderView::section { color:white; background-color:#232326; }")
-
+***
     에디트 박스 정렬
         self.textEdit_1.setAlignment(Qt.AlignCenter) 
-    
+***   
     문자 순열 발생 ('123' -> '132' ....)
+    
         from itertools import permutations
 
         perm = [''.join(p) for p in permutations(data)]
