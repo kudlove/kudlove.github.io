@@ -13,8 +13,8 @@ tags:
     - Python
 toc: true
 toc_sticky: true
-date: {2022-01-06}
-last_modified_at: {2022-01-06}
+date: 2022-01-06
+last_modified_at: 2022-01-06
 published: true
 ---
 
