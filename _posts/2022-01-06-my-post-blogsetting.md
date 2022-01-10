@@ -13,6 +13,7 @@ toc_sticky: true
 
 date: 2022-01-06
 last_modified_at: 2021-01-06
+published: true
 ---
 
 ## 루비,번들 설치 
@@ -22,7 +23,6 @@ last_modified_at: 2021-01-06
 - 번들 : https://bundler.io/  
 - 공부하는 식빵맘 : https://ansohxxn.github.io/blog/posting/
 - 마크다운 문법 참조 : https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown/  
-- typora : https://typora.io/
 
 ***
     로컬 서버에서 블로그에 적용될 모습 확인하기    
