@@ -13,7 +13,6 @@ toc_sticky: true
 
 date: 2022-01-06
 last_modified_at: 2021-01-06
-published: true
 ---
 
 ## 루비,번들 설치 
