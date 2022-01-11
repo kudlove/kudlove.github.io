@@ -18,10 +18,10 @@ last_modified_at: 2021-01-10
 
 |Site|Address|
 |---|:---:|
-|루비|https://www.ruby-lang.org/en/|
-|번들|https://bundler.io/|
-|공부하는 식빵맘|https://ansohxxn.github.io/blog/posting/|
-|마크다운|https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown|
+|루비|<https://www.ruby-lang.org/en/>|
+|번들|<https://bundler.io/>|
+|Github|[공부하는 식빵맘](https://ansohxxn.github.io/blog/posting/){: target="_blank"}|
+|마크다운|[문법](https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown){: target="_blank"}|
 
 ---
 ``` 
