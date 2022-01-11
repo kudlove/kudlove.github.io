@@ -82,8 +82,8 @@ self.btnDel.clicked.connect(self.clickBtnDelete)
     에디트 박스 정렬
         self.textEdit_1.setAlignment(Qt.AlignCenter) 
 
-***   
-    문자 순열 발생 ('123' -> '132' ....)
+ 
+***문자 순열 발생 ('123' -> '132' ....)
 
         from itertools import permutations
 
