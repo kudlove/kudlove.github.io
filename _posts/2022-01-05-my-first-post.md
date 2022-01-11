@@ -18,7 +18,7 @@ last_modified_at: 2022-01-06
 published: true
 ---
 
- ## 파이썬 사용 함수
+## 파이썬 사용 함수
 ***
 - ### QT Style  
   https://doc.qt.io/qt-5/stylesheet-examples.html
@@ -31,7 +31,7 @@ published: true
 
 ***
 > 인증서 문제 해결 명령어  
-  --trusted-host  
+--trusted-host  
  ex )  pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install jupyterlab 
 
 
