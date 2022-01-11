@@ -15,15 +15,13 @@ date: 2022-01-06
 last_modified_at: 2021-01-10
 ---
 # 루비,번들 설치 
-
 |Site|Address|
 |--|:--:|
 |루비|https://www.ruby-lang.org/en/|
-|번들|https://bundler.io/||
-|공부하는 식빵맘|https://ansohxxn.github.io/blog/posting/||
+|번들|https://bundler.io/|
+|공부하는 식빵맘|https://ansohxxn.github.io/blog/posting/|
 |마크다운|https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown/|
 ---
-
 ``` 
   로컬 서버에서 블로그에 적용될 모습 확인하기
   명령 프롬프트 cmd를 켜고 cd로 깃허브계정아이디. github.io 폴더로 이동한다.  
