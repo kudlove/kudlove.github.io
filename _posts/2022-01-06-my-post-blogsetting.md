@@ -34,5 +34,15 @@ last_modified_at: 2021-01-10
 ```
 
     
+# Javascript
 
+```
+  select 단일 객체
+  $('select[name=SEND_TP]> option:selected').val()  
+  $('select[name=SEND_TP]').attr("disabled", "disabled");
+
+  select 배열 객체
+  $("select[name='BF_IR_LEAK_FLAG']").eq(selectedIndex).val()
+
+```
 
