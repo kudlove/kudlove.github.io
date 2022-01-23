@@ -22,6 +22,7 @@ last_modified_at: 2021-01-10
 |번들|<https://bundler.io/>|
 |Github|[공부하는 식빵맘](https://ansohxxn.github.io/blog/posting/){: target="_blank"}|
 |마크다운|[문법](https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown){: target="_blank"}|
+|LINE 챗봇|[또삽질이구나](https://chooi9522.tistory.com/38){: target="_blank"}|
 
 ---
 ``` 
