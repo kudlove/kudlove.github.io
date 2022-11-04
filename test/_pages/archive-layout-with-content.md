@@ -4,6 +4,7 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 
+
 A variety of common markup showing how the theme styles them.
 
 # Header one
@@ -66,6 +67,10 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
+---
+* ### Unordered Lists (Nested)Test
+---
+
   * List item one 
       * List item one 
           * List item one
@@ -102,7 +107,7 @@ Make any link standout more when applying the `.btn` class.
 <a href="#" class="btn--success">Success Button</a>
 ```
 
-[Primary Button](#){: .btn}
+[Primary Button](#){: `.btn`}
 [Success Button](#){: .btn .btn--success}
 [Warning Button](#){: .btn .btn--warning}
 [Danger Button](#){: .btn .btn--danger}
@@ -193,6 +198,7 @@ This tag styles large blocks of code.
 }
 </pre>
 
+
 ### Quote Tag
 
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
@@ -212,3 +218,16 @@ Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which shou
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+
+
+
+![Kayak](http://www.gstatic.com/webp/gallery/2.jpg "링크 설명(title)을 작성하세요.")
+
+![Kayak][logo]
+
+[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To go kayaking."
+
+``` 
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+```
+
