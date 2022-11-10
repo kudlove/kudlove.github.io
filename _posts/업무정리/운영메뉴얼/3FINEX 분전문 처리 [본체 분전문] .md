@@ -1,6 +1,6 @@
 ---
-title: '3finex bon flow'
-excerpt: 본체 flow 정리중 
+title: '3FINEX 분전문 처리 [본체 분전문] '
+excerpt: 3FINEX
 categories: personal
 tags: personal
 toc: true
